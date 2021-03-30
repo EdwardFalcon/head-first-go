@@ -1,4 +1,4 @@
-package main
+package magazine
 
 type Subscriber struct {
 	Name        string
